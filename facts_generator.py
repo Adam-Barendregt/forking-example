@@ -20,7 +20,7 @@ def get_contributions():
         ("Yasin", "Your fun fact"),
         ("Alaa", "Your fun fact"),
         ("Ihssane", "Your fun fact"),
-        ("Adam", "Your fun fact"),
+        ("Adam", "Ik fiets graag"),
         ("Bart", "Your fun fact"),
         ("Thomas", "Your fun fact"),
         ("Jade", "Your fun fact"),
